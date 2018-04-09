@@ -1,0 +1,14 @@
+{
+  "name": "realstate",
+  "version": "0.0.1",
+  "dependencies": {
+    "artoo-js": "^0.3.4",
+    "lodash": "^4.17.4",
+    "npm": "^5.8.0",
+    "protractor": "^5.3.1",
+    "sandcrawler": "beta"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.4.0"
+  }
+}
