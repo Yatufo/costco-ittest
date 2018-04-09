@@ -14,4 +14,8 @@ webdriver-manager update
 ```
 
 
-#### Install Dependencies
+#### Run
+
+```
+ protractor protractor.conf.js                                                       
+```
