@@ -1,11 +1,12 @@
 #### Install Dependencies
 * [Node](https://nodejs.org/en/download/)
-* [Docker](https://www.docker.com/)
+* [Docker](https://www.docker.com/) (Optional)
 
 
-Install protractor:
+Install dependencies:
 ```
 npm -g install protractor
+npm install
 ```
 
 Update driver:
