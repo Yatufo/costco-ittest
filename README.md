@@ -17,6 +17,12 @@ webdriver-manager update
 
 #### Run
 
+Run using Chrome
 ```
- protractor protractor.conf.js                                                       
+  protractor protractor.conf.js                                                       
+```
+
+Run using Headless
+```
+  ./protractor-headless.sh protractor.conf.js
 ```
